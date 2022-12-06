@@ -224,6 +224,15 @@ img {
   color: var(--first-color);
   text-decoration: none;
 }
+
+.login__sign{
+  margin-left:160px;
+  list-style-type: none;
+  text-decoration: none;
+  font-size: 12px;
+  font-family: var(--font-semi-bold);
+  color: var(--first-color);
+}
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
 @media screen and(max-width: 360px) {
